@@ -2,7 +2,7 @@
 
 ## Detaljer:
 Titel: __TBD__  
-Forfattere: __Mikkel Skaarup Jeadicke__ & __Casper Kehlet Jensen__  
+Forfattere: __Mikkel Skaarup Jaedicke__ & __Casper Kehlet Jensen__  
 Kategorier: __mad__, __hverdagsmad__, __vegetar__
 
 ## Projektet
