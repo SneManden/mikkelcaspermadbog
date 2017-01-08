@@ -18,3 +18,6 @@ Bogen er kompileret med LaTeX.
 
 ## TODO:
  - Alt andet grundlæggende repo-opsætning
+
+## Ønsker / features
+ - Tomme cirkler til hver opskrift (så man kan udfylde hvor god den var?) (Og flere end 3 mulige :P)
