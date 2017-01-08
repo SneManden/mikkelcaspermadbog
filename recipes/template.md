@@ -7,7 +7,7 @@ Vestibulum placerat nibh id quam mattis, sit amet euismod lorem semper. Donec
 posuere elementum massa, non convallis lacus cursus non.
 <!-- Indledning, teaser -->
 
-Sværhedsgrad: 3/5
+Sværhedsgrad: 3/5  
 Tid: 60 min
 
 ## Ingredienser
@@ -21,7 +21,7 @@ Tid: 60 min
  - ...
 
 ## Fremgangsmåde
-enean bibendum ut lorem in sollicitudin. Nam luctus at dolor fermentum ultrices.
+Enean bibendum ut lorem in sollicitudin. Nam luctus at dolor fermentum ultrices.
 Nam dui metus, malesuada nec tempus eu, maximus sit amet odio. Donec commodo
 placerat sapien, vel vestibulum augue.
 
