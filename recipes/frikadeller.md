@@ -6,36 +6,45 @@ opskrift anvendes et stykke af den rustikke knoldselleri, kaninens yndlingsspise
 den traditionelle frikadelle passende konkurrence.
 
 Sværhedsgrad: 3/5  
-Tid: 45-60 min
+Tid: 60 min
 
 ## Ingredienser
- - 700 g	Rodfrugter (Knoldselleri, gulerødder, kartofler)
- - 3-4 spsk	Olie
- - 1-2 spsk	Mel
- - 1 spsk	Havregryn
- - 		Citronsaft
- - 1-2 tsk	Salt
- - 		Peber
- - 		Røget paprika
- - 		Paprika
- - 		Spidskommen
+Tærtedej:
+ - 90 g hvedemel
+ - 90 g groft mel (rugmel, grahamsmel, fuldkorshvedemel eller lign.)
+ - 30 g solsikkekerner
+ - 30 g hørfrø (eller sesamfrø)
+ - 1/2 tsk bagepulver
+ - 3/4 tsk salt
+ - 1 dl youghurt
+ - 4 spsk olie 
+ Fyld:
+ - 200 g frossent spinat
+ - 200 g broccoli (ca. 1/2 stk.)
+ - 200 g hytteost
+ - 3 æg
+ - 2 tsk sojasovs
+ - 1/2 tsk salt
+ - 1 ordentligt riv muskatnød
+ - timian og peber
+
 
 ## Fremgangsmåde
-Klargør rodfrugterne (skyl, vask, rens, skræl dem).
-Riv rodfrugterne på et rivejern eller på en dertil indrettet maskine.
+Bland alle de tørre ingredienser til tærtedejen i en skål.
+Tilføj herefter alle de våde og rør det hele sammen.
+Rul dejen ud så den er lidt større end din tærteform, "rul" dejen rundt om kagerullen og placer den herefter hen over din tærteform.
+Fjern ovenskydende dej ved kanterne og lap eventuelle huller :)
+Stik i dejen med en gaffel.
 
-Bland ingredienserne i en stor skål, og rør godt med en stor ske.
-Justér konsistensen med olie og mel/havregryn.
-Lad farsen hvile sig (et sted mellem 10 og 30 min afhængig af tålmodighed).
+Bag dejen i ovnen ved 180grader i ca. 10 minutter eller til den begynder at blive gylden.
 
-Rør kort i farsen, og form til frikadeller med en ske.
-Steg dem på en pande med rigeligt fedtstof (olie og/eller en klat smør).
-Vendes forsigtigt et par gange.
+Imens kan fyldet laves. Hvis din spinat er frossen kan du hælde kogende vand over den i en skål.
+Herefter skal væden presses ud af spinaten.
+Bland alle ingredienserne undtagen broccolien i en skål og skær broccolien ud i små buketter.
 
+Når dejen kommer ud af ovnen placeres broccolien i den og herefter hældes æggemassen henover.
+Tærten skal have ca. 30 minutter i den 180grader varme ovn. 
 
 ### Tip / variation
-Brug de rodfrugter du har til rådighed.
-
-Kan serveres med en lækker salat og kartoffelbåde eller pasta.
-Naturligvis tar` de heller ikke skade af at dele tallerkenen med en brun
-svampesovs (men hvad gør også det?).
+Måske er det lettere at rulle dejen ud, hvis den hviler lige lidt???
+Tærten er rigtig lækker kold - måske næsten bedre end når den er varm.
