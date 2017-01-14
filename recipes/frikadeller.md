@@ -5,7 +5,7 @@ opskrift anvendes et stykke af den rustikke knoldselleri, kaninens yndlingsspise
 *guleroden* og den alsidige kartoffel. Sprøde udenpå og saftige indeni, gir de
 den traditionelle frikadelle passende konkurrence.
 
-Sværhedsgrad: 3/5
+Sværhedsgrad: 3/5  
 Tid: 45-60 min
 
 ## Ingredienser
