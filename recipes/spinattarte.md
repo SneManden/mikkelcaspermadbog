@@ -14,6 +14,7 @@ Tærtedej:
  - 3/4 tsk salt
  - 1 dl youghurt
  - 4 spsk olie 
+ 
  Fyld:
  - 200 g frossent spinat
  - 200 g broccoli (ca. 1/2 stk.)
