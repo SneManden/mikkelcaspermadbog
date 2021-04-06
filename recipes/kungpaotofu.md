@@ -50,7 +50,3 @@ Steg tørret chili, hvidløg og ingefær i lidt olie i et minuts tid. Tilføj he
 Når sovsen er tyknet og smagt til tilføres tofu. Det hele blandes og steges ét minut. Herefter strøes peanuts og frisk korionder ud over retten. 
 
 NU er der serveret en lækker **Kung Pao Tofu** som selvfølig skal spises med ris og spisepinde!
-
-
-### Tip / variation
-Vi kan rigtig godt lide lidt stærk chilisovs henover retten til sidst.
