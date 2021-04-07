@@ -10,7 +10,6 @@ Tid: 30 min
 - 2.5 spsk majsstivelse
 - 1/4 tsk salt
 - peber
-- 3 spsk olie
 
 ### Sauce
  - 3 spsk soja sovs
@@ -31,6 +30,7 @@ Tid: 30 min
  - 2 rød peber
  - 1 løg
  - 3 forårsløg
+ - 1 dl vand
  - peanuts
  - evt. frisk koriander :)
  
